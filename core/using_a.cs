@@ -1,4 +1,4 @@
-namespace Cru.Specifications.Core
+namespace cornichon.core
 {
     public abstract class using_a<SUT>: Specification
     {

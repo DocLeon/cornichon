@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace Cru.Specifications.Core
+namespace cornichon.core
 {
     public abstract class Specification
     {
